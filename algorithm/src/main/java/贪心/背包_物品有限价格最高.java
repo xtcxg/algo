@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @author liutz
  * @date 2021/12/13
  */
-public class 背包装的最多_每种物品数量无限 {
+public class 背包_物品有限价格最高 {
 	public static void main(String[] args) {
 		int max = max(10,new int[]{2,4});
 		System.out.println(max);
