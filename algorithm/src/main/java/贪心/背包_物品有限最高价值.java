@@ -3,8 +3,8 @@ package 贪心;
 public class 背包_物品有限最高价值 {
     public static void main(String[] args) {
 //        reduce();
-        int[][] goods = {{20,60},{20,100},{30,150},{40,270}};
-        reduce(50,goods);
+        int[][] goods = {{70,80},{50,70},{40,60},{50,90}};
+        reduce(100,goods);
     }
 
     public static int reduce() {
